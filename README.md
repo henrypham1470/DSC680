@@ -1,16 +1,17 @@
 1. [**Project 1**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20Apple%20Stock%20Performance)
 Predicting Apple stock performance based on macroeconomic and technology indicators.
 The objective of this project is to develop a robust predictive model for forecasting Apple Inc. (AAPL) stock performance by incorporating a comprehensive set of factors, including interest rates, the S&P 500 stock market index, and the stock prices of key semiconductor companies—AMD, Intel, and Qualcomm. Accurate predictions of AAPL stock performance are crucial for investors, financial analysts, and stakeholders seeking to make informed decisions in the dynamic world of stock trading. By harnessing a wide array of relevant data sources and advanced analytical techniques, this project aims to deliver valuable insights and predictive capabilities that can enhance investment strategies.
-#--------#
+
 3. [**Project 2**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20Stock%20Market%20Performance)
 Predicting Stock market performance based on GDP, inflation, CPI, unemployment rates, and interest rates.
 The goal of this project is to develop a comprehensive predictive model for forecasting stock market performance by leveraging critical macroeconomic indicators. We aim to create a data-driven approach that incorporates GDP, inflation, CPI, unemployment rates, and interest rates to provide valuable insights into the dynamics of financial markets. Accurate predictions of stock market trends have significant implications for investors, financial institutions, and policymakers, enabling informed decision-making and risk management.
-4.	[**Project 3**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20NVIDIA%20Stock%20Performance)
+
+5.	[**Project 3**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20NVIDIA%20Stock%20Performance)
 Predicting NVIDIA stock performance based on key financial and technology indicators.
 The objective of this project is to develop an accurate predictive model for forecasting the stock performance of NVIDIA Corporation (NVDA) by leveraging key financial and technological indicators, including interest rates, the stock prices of semiconductor companies AMD and Intel. Accurate predictions of NVDA stock performance are crucial for investors, financial analysts, and stakeholders who seek to make informed decisions in the dynamic semiconductor industry. This project aims to harness data-driven analysis and advanced modeling techniques to provide valuable insights and predictive capabilities that can enhance investment strategies.
-5.	Predicting Apple stock performance using time series.
+6.	Predicting Apple stock performance using time series.
 The objective of this project is to develop a precise and reliable predictive model for forecasting the stock performance of Apple Inc. (AAPL) using advanced time series analysis techniques. Accurate predictions of AAPL stock performance are paramount for investors, financial analysts, and stakeholders seeking to make informed decisions in the ever-evolving world of stock trading. By harnessing the power of time series analysis and historical stock price data, this project aims to provide valuable insights and predictive capabilities that can enhance investment strategies.
-6.	[**Project 5**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20US%20Retails%20Sales)
+7.	[**Project 5**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20US%20Retails%20Sales)
 Predicting US retail sales using time series.
 The aim of this project is to develop an accurate and actionable predictive model for forecasting retail sales in the United States using advanced time series analysis techniques. Accurate predictions of U.S. retail sales are essential for retailers, economists, and policymakers who rely on this critical economic indicator to make informed decisions and navigate the dynamic landscape of the retail sector. By harnessing the power of time series analysis and historical retail sales data, this project seeks to provide valuable insights and predictive capabilities that can enhance strategic planning and decision-making.
 8.	[**Project 6**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20Chicago%20Crimes)
