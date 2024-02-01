@@ -1,4 +1,4 @@
-1. [*Project 1**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20Apple%20Stock%20Performance)
+1. [**Project 1**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20Apple%20Stock%20Performance)
 Predicting Apple stock performance based on macroeconomic and technology indicators.
 The objective of this project is to develop a robust predictive model for forecasting Apple Inc. (AAPL) stock performance by incorporating a comprehensive set of factors, including interest rates, the S&P 500 stock market index, and the stock prices of key semiconductor companies—AMD, Intel, and Qualcomm. Accurate predictions of AAPL stock performance are crucial for investors, financial analysts, and stakeholders seeking to make informed decisions in the dynamic world of stock trading. By harnessing a wide array of relevant data sources and advanced analytical techniques, this project aims to deliver valuable insights and predictive capabilities that can enhance investment strategies.
 3.	Predicting Stock market performance based on GDP, inflation, CPI, unemployment rates, and interest rates.
