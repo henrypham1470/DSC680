@@ -24,7 +24,7 @@ Methods:
 
 The analysis will employ machine learning algorithms, including regression models and time series forecasting techniques, to predict Apple stock prices. Key steps in the project methodology include:
 
-Data Collection: Gather historical data for economic indicators and Toyota's stock prices from reputable sources.
+Data Collection: Gather historical data for economic indicators and Apple stock prices from reputable sources.
 
 Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
 
