@@ -10,8 +10,9 @@ The goal of this project is to develop a comprehensive predictive model for fore
 Predicting NVIDIA stock performance based on key financial and technology indicators.
 The objective of this project is to develop an accurate predictive model for forecasting the stock performance of NVIDIA Corporation (NVDA) by leveraging key financial and technological indicators, including interest rates, the stock prices of semiconductor companies AMD and Intel. Accurate predictions of NVDA stock performance are crucial for investors, financial analysts, and stakeholders who seek to make informed decisions in the dynamic semiconductor industry. This project aims to harness data-driven analysis and advanced modeling techniques to provide valuable insights and predictive capabilities that can enhance investment strategies.
 
-7.	Predicting Apple stock performance using time series.
-The objective of this project is to develop a precise and reliable predictive model for forecasting the stock performance of Apple Inc. (AAPL) using advanced time series analysis techniques. Accurate predictions of AAPL stock performance are paramount for investors, financial analysts, and stakeholders seeking to make informed decisions in the ever-evolving world of stock trading. By harnessing the power of time series analysis and historical stock price data, this project aims to provide valuable insights and predictive capabilities that can enhance investment strategies.
+7.	[**Project 4**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20Toyota%20Stock%20Performance)
+Predicting Toyota stock performance using machine learning and economic indicators.
+The objective of this project is to develop an accurate prediction of Toyota stock prices. Investors, financial analysts, and automotive industry professionals reply on precise forecasts to make informed decisions and navigate the complexities of financial markets. Predicting Toyota stock performance can provide a competitive advantage by identifying  potential buying and selling opportunities and facilitating risk mitigation.
 
 9.	[**Project 5**](https://github.com/henrypham1470/DSC680/tree/main/Predicting%20US%20Retails%20Sales)
 Predicting US retail sales using time series.
