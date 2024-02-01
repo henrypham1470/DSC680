@@ -33,3 +33,15 @@ Feature Engineering: Create lagged variables and relevant features to capture po
 Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict stock prices.
 
 Model Evaluation: Assess model performance using appropriate evaluation metrics.
+
+Ethical Considerations:
+
+Ethical considerations will be maintained throughout the project, focusing on data privacy, security, and fairness. Any potential biases in the data or models will be addressed to ensure transparency and equity. Avoiding market manipulation and adhering to regulatory compliance
+
+Challenges/Issues:
+
+Challenges may include data quality issues, model accuracy, and the dynamic nature of financial markets. Handling missing data, outliers, and addressing potential economic shifts are among the challenges anticipated during the project.
+
+References:
+
+The project will rely on reputable financial data sources, and economic reports to validate results and support the analysis.
