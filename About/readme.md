@@ -35,4 +35,5 @@ I have practical experience using Python and R in the fields of Data Science and
 # Charter Member of Microsoft:
 I hold the distinction of being a charter member of Microsoft, indicating my long-standing association with and committing to the Microsoft community.
 
+#
 My career has been characterized by a unique blend of financial and technical expertise, allowing me to excel in various domains and substantial contributions to organizations. 
