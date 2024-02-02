@@ -1,7 +1,7 @@
 My name is Henry Pham. I have over twenty years of experience in my career, during which I've developed expertise in a wide range of areas.
 
 ## Data Management:
-Over the years, I have honed my skills in managing data effectively, snsuring its accuracy, security, and accessibility.
+Over the years, I have honed my skills in managing data effectively, ensuring its accuracy, security, and accessibility.
 
 ## Margin Management:
 I have extensive experience in managing margins and risks.
