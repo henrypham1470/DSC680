@@ -22,7 +22,7 @@ My expertise in SQL Server enables me to manage and manipulate data efficiently,
 I possess substantial experience in trading management, leveraging my financial and technical expertise to make informed trading decisions.
 
 #
-In addition to my professional accomplishments, I hold several notalbe certifications and memberships.
+In addition to my professional accomplishments, I hold several notable certifications and memberships.
 
 ## FINRA Registrations:
 I am registered with FINRA, holding Series 4,7,24,55, and 63 certifications, demonstrating my deep understanding of financial regulations and compliance.
