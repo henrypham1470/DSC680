@@ -7,7 +7,7 @@ Over the years, I have honed my skills in managing data effectively, ensuring it
 I have extensive experience in managing margins and risks.
 
 ## Microsoft Business Intelligence (MSBI):
-I am proficient in using MSBI tools, inclusing SSIS, SSAS, and SSRS, to design and construct more than 200 automated reports. These reports are instrumental in indentifying real-time risks and potential trading issues, resulting in a significant 40% reduction in manual processing time.
+I am proficient in using MSBI tools, inclusing SSIS, SSAS, and SSRS, to design and construct more than 200 automated reports. These reports are instrumental in identifying real-time risks and potential trading issues, resulting in a significant 40% reduction in manual processing time.
 
 ## Operations Management:
 I have a strong background in managing various operational aspects of businesses, optimizing processes for efficiency and effectiveness.
