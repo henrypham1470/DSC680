@@ -21,6 +21,7 @@ My expertise in SQL Server enables me to manage and manipulate data efficiently,
 ## Trading Management:
 I possess substantial experience in trading management, leveraging my financial and technical expertise to make informed trading decisions.
 
+#
 In addition to my professional accomplishments, I hold several notalbe certifications and memberships.
 
 ## FINRA Registrations:
