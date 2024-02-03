@@ -10,7 +10,7 @@ The goal of this project is to develop a comprehensive predictive model for fore
 # Predicting NVIDIA stock performance based on key financial and technology indicators.
 The objective of this project is to develop an accurate predictive model for forecasting the stock performance of NVIDIA Corporation (NVDA) by leveraging key financial and technological indicators, including interest rates, the stock prices of semiconductor companies AMD and Intel. Accurate predictions of NVDA stock performance are crucial for investors, financial analysts, and stakeholders who seek to make informed decisions in the dynamic semiconductor industry. This project aims to harness data-driven analysis and advanced modeling techniques to provide valuable insights and predictive capabilities that can enhance investment strategies.
 
-4.	[**Project 4**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Toyota%20Stock%20Performance)
+4.	[**Project 4: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Toyota%20Stock%20Performance)
 # Predicting Toyota stock performance using machine learning and economic indicators.
 The objective of this project is to develop an accurate prediction of Toyota stock prices. Investors, financial analysts, and automotive industry professionals reply on precise forecasts to make informed decisions and navigate the complexities of financial markets. Predicting Toyota stock performance can provide a competitive advantage by identifying  potential buying and selling opportunities and facilitating risk mitigation.
 
