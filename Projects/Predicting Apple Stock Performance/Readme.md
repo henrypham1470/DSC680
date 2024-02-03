@@ -24,15 +24,19 @@ Qualcomm: https://finance.yahoo.com/quote/QCOM/history?p=QCOM
 
 The analysis will employ machine learning algorithms, including regression models and time series forecasting techniques, to predict Apple stock prices. Key steps in the project methodology include:
 
-Data Collection: Gather historical data for economic indicators and Apple stock prices from reputable sources.
+Data Collection: Gather historical stock prices data for AAPL, INTC, AMD, QCOM, and SPY, spanning the past five years. Also obtain macroeconomic data from the Treasury Department.
 
 Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
 
 Feature Engineering: Create lagged variables and relevant features to capture potential dependencies.
 
+Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between macroeconomic factors, semiconductor stocks, and Apple.
+
 Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict stock prices.
 
-Model Evaluation: Assess model performance using appropriate evaluation metrics.
+Prediction: Utilize the trained model to make predictions for Apple stock performance for a specific future period.
+
+Model Evaluation: Assess model performance using appropriate evaluation metrics like Mean Absolute Error (MAE) and R-squared (R2).
 
 # Ethical Considerations:
 
