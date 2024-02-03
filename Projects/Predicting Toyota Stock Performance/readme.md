@@ -3,12 +3,19 @@ This project embarks on the task of predicting Toyota stock performance by utili
 
 # Datasets:
 Interest Rates: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2024
-Stock Market Indices: https://finance.yahoo.com/quote/SPY/history?p=SPY 
-Toyota: https://finance.yahoo.com/quote/TM/history?p=TM 
+
+Stock Market Indices: https://finance.yahoo.com/quote/SPY/history?p=SPY
+
+Toyota: https://finance.yahoo.com/quote/TM/history?p=TM
+
 AMD: https://finance.yahoo.com/quote/AMD/history?p=AMD
-Intel: https://finance.yahoo.com/quote/INTC/history?p=INTC 
-Goodyear Tire: https://finance.yahoo.com/quote/GT/history?p=GT 
-Honda: https://finance.yahoo.com/quote/HMC/history?p=HMC 
+
+Intel: https://finance.yahoo.com/quote/INTC/history?p=INTC
+
+Goodyear Tire: https://finance.yahoo.com/quote/GT/history?p=GT
+
+Honda: https://finance.yahoo.com/quote/HMC/history?p=HMC
+
 Consumer Price Index (CPI): https://www.alphavantage.co/query?function=CPI&interval=monthly&apikey=demo 
 
 # Methods:
