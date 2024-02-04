@@ -34,7 +34,7 @@ The aim of this project is to develop an accurate and actionable predictive mode
 # Predicting pizza price.
 The goal of this project is to develop an accurate predictive model for forecasting pizza prices, benefiting pizzerias, customers, and the food service industry as a whole. Accurate price predictions for pizzas enable pizzerias to optimize pricing strategies, offer competitive rates, and enhance customer satisfaction. Additionally, customers can make informed choices, and the food service industry can gain insights into pricing dynamics. By harnessing data analytics and historical pricing data, this project aims to provide valuable insights and predictive capabilities that can contribute to pricing transparency and informed decision-making in the pizza market.
 
-10.	[**Project 10: working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Heart%20Disease)
+10.	[**Project 10: Working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Heart%20Disease)
 # Predicting heart disease.
 The objective of this project is to develop a precise and reliable predictive model for forecasting the likelihood of heart disease in individuals, benefiting healthcare providers, patients, and public health initiatives. Accurate predictions of heart disease risk enable early intervention, personalized healthcare planning, and the prevention of cardiovascular complications. By harnessing advanced data analytics and medical data, this project aims to provide valuable insights and predictive capabilities that can improve heart disease prevention and management.
 
