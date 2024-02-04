@@ -33,7 +33,7 @@ Intel: https://finance.yahoo.com/quote/INTC/history?p=INTC
 # Methods:
 The method involves the application of machine learning algorithms, including regression models and time series forecasting techniques to predict NVIDIA stock prices. Below are the key steps.
 
-Data Collection: Collect historical stock prices data for NVDA, INTC, AMD, and SPY, spanning the past five years. Also obtain macroeconomic data from the Treasury Department.
+Data Collection: Collect historical stock prices data for NVDA, INTC, AMD, and SPY, spanning the past five years. Also obtain interest rates data from the Treasury Department.
 
 Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
 
