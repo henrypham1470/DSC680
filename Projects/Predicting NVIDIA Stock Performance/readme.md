@@ -1,5 +1,5 @@
 # Predicting NVIDIA stock performance based on key financial and technology indicators.
-This project embarks on a journey to predict NVIDIA stock performance using cutting-edge machine learning techniques and by leveraging essential economic indicators. I will alos consider the performance of key players in the tech industry, such as Intel and AMD, to gain a holistic view of the market dynamics. By analyzing historical data and identifying correlations between these variables, the goal is to provide valuable insights to investors, financial analysts, traders, and stakeholders.
+This project embarks on a journey to predict NVIDIA stock performance using cutting-edge machine learning techniques and by leveraging essential economic indicators. I will also consider the performance of key players in the tech industry, such as Intel and AMD, to gain a holistic view of the market dynamics. By analyzing historical data and identifying correlations between these variables, the goal is to provide valuable insights to investors, financial analysts, traders, and stakeholders.
 
 # Required Libraries:
 matplotlib: data visualization library for Python, widely used in data analysis, scientific research, engineering, and visualization tasks.
@@ -30,3 +30,27 @@ AMD: https://finance.yahoo.com/quote/AMD/history?p=AMD
 
 Intel: https://finance.yahoo.com/quote/INTC/history?p=INTC 
 
+# Methods:
+The method involves the application of machine learning algorithms, including regression models and time series forecasting techniques to predict NVIDIA stock prices. Below are the key steps.
+
+Data Collection: Collect historical stock prices data for NVDA, INTC, AMD, and SPY, spanning the past five years. Also obtain macroeconomic data from the Treasury Department.
+
+Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
+
+Feature Engineering: Create lagged variables and relevant features to capture potential dependencies.
+
+Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between macroeconomic factors, semiconductor stocks, and NVIDIA.
+
+Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict stock prices.
+
+Prediction: Utilize the trained model to make predictions for Toyota stock performance for a specific future period.
+
+Model Evaluation: Assess model performance using appropriate evaluation metrics like Mean Absolute Error (MAE) and R-squared (R2).
+
+# Ethical Considerations:
+
+Ethical considerations will be maintained throughout the project, focusing on data privacy, security, and fairness. Any potential biases in the data or models will be addressed to ensure transparency and equity. Avoiding market manipulation and adhering to regulatory compliance
+
+# Challenges/Issues:
+
+Challenges may include data quality issues, model accuracy, and the dynamic nature of financial markets. Handling missing data, outliers, and addressing potential economic shifts are among the challenges anticipated during the project.
