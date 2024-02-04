@@ -4,18 +4,14 @@ This project embarks on a journey to predict NVIDIA stock performance using cutt
 # Datasets:
 The project will utilize historical data for economic indicators and the stock performance of relevant tech companies.
 
-Daily historical interest rates data from Treasury Department, from 2019 to 2023:
-
+Daily historical interest rates data from Treasury Department:
 https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2023
 
-Daily historical S&P 500 stock market indices from Yahoo Finance, from 2019 to 2023:
+Stock market index: https://finance.yahoo.com/quote/SPY/history?p=SPY 
 
-SPDR S&P 500 ETF Trust (SPY) Stock Historical Prices & Data - Yahoo Finance
+NVIDIA: https://finance.yahoo.com/quote/NVDA/history?p=NVDA
 
-Daily historical NVIDIA, Intel, and AMD from Yahoo Finance, from 2019 to 2023:
+AMD: https://finance.yahoo.com/quote/AMD/history?p=AMD 
 
-NVIDIA Corporation (NVDA) Stock Historical Prices & Data - Yahoo Finance
+Intel: https://finance.yahoo.com/quote/INTC/history?p=INTC 
 
-Intel Corporation (INTC) Stock Historical Prices & Data - Yahoo Finance
-
-Advanced Micro Devices, Inc. (AMD) Stock Historical Prices & Data - Yahoo Finance
