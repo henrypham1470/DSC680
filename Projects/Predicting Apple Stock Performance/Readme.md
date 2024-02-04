@@ -61,6 +61,3 @@ Ethical considerations will be maintained throughout the project, focusing on da
 
 Challenges may include data quality issues, model accuracy, and the dynamic nature of financial markets. Handling missing data, outliers, and addressing potential economic shifts are among the challenges anticipated during the project.
 
-# References:
-
-The project will rely on reputable financial data sources, and economic reports to validate results and support the analysis.
