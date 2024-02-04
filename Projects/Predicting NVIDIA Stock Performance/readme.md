@@ -1,4 +1,4 @@
-# Predicting NVIDIA stock performance based on key financial and technology indicators.
+# Predicting NVIDIA Stock Performance based on Key Financial and Technology Indicators.
 This project embarks on a journey to predict NVIDIA stock performance using cutting-edge machine learning techniques and by leveraging essential economic indicators. I will also consider the performance of key players in the tech industry, such as Intel and AMD, to gain a holistic view of the market dynamics. By analyzing historical data and identifying correlations between these variables, the goal is to provide valuable insights to investors, financial analysts, traders, and stakeholders.
 
 # Required Libraries:
