@@ -43,7 +43,7 @@ Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify cor
 
 Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict stock prices.
 
-Prediction: Utilize the trained model to make predictions for Toyota stock performance for a specific future period.
+Prediction: Utilize the trained model to make predictions for NVIDIA stock performance for a specific future period.
 
 Model Evaluation: Assess model performance using appropriate evaluation metrics like Mean Absolute Error (MAE) and R-squared (R2).
 
