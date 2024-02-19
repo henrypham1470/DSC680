@@ -1,7 +1,9 @@
 
 [**About me**](https://github.com/henrypham1470/DSC680/tree/main/About)
 
-[**Below are 10 projects**]
+[**Contact**](https://github.com/henrypham1470/DSC680/tree/main/Contact)
+
+# ----Below are 10 projects----
 
 1. [**Project 1: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Apple%20Stock%20Performance)
 # Predicting Apple stock performance based on macroeconomic and technology indicators.
