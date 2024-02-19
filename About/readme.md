@@ -30,7 +30,7 @@ I am registered with FINRA, holding Series 4,7,24,55, and 63 certifications, dem
 ## Microsoft Certified Solutions Expert (MCSE):
 I have achived MCSE certifications in Business Intelligence, Data Management and Analytics, signifying my proficiency in Microsoft technologies and solutions within these domains.
 
-## Data Science and Machine Learing:
+## Data Science and Machine Learning:
 I have practical experience using Python and R in the fields of Data Science and Machine Learning, contributing to data-driven insights and predictive modeling.
 
 ## Charter Member of Microsoft:
