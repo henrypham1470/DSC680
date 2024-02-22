@@ -24,10 +24,15 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 # Datasets:
 
 Interest rates: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2023
+
 Stock market index: https://finance.yahoo.com/quote/SPY/history?p=SPY
+
 CPI: https://www.alphavantage.co/query?function=CPI&interval=monthly&apikey=demo 
+
 Inflation: https://www.usinflationcalculator.com/inflation/historical-inflation-rates/ 
+
 Durable Goods: https://www.alphavantage.co/query?function=DURABLES&apikey=demo 
+
 Unemployment rates: https://www.alphavantage.co/query?function=UNEMPLOYMENT&apikey=demo 
 
 # Methods:
