@@ -2,7 +2,7 @@
 
 The objective of this project is to develop an accurate and proactive predictive model for forecasting crime incidents in the city of Chicago using advanced time series analysis techniques. Accurate predictions of crime occurrences in Chicago are essential for law enforcement agencies, city planners, and policymakers aiming to enhance public safety and allocate resources effectively. By harnessing the power of time series analysis and historical crime data, this project seeks to provide valuable insights and predictive capabilities that can assist in crime prevention and response strategies.
 
-The driving force behind this project is the recognition of the profound value that accurate crime predictions can offer to law enforcement agencies and the community. By adopting a data-driven approach, rigorous methodology, and ethical data usage practices, we aim to provide actionable insights that empower stakeholders to make informed decisions related to crime prevention and response.
+The driving force behind this project is the recognition of the profound value that accurate crime predictions can offer to law enforcement agencies and the community. By adopting a data-driven approach, rigorous methodology, and ethical data usage practices, I aim to provide actionable insights that empower stakeholders to make informed decisions related to crime prevention and response.
 
 # Required Libraries:
 
