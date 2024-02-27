@@ -36,7 +36,7 @@ Feature Engineering: Create relevant features to capture potential dependencies.
 
 Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between variables.
 
-Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict stock prices.
+Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict pizza prices.
 
 Prediction: Utilize the trained model to make predictions for pizza prices for a specific future period.
 
