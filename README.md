@@ -26,7 +26,7 @@ The objective of this project is to develop an accurate prediction of Toyota sto
 # Predicting US retail sales using time series.
 The aim of this project is to develop an accurate and actionable predictive model for forecasting retail sales in the United States using advanced time series analysis techniques. Accurate predictions of U.S. retail sales are essential for retailers, economists, and policymakers who rely on this critical economic indicator to make informed decisions and navigate the dynamic landscape of the retail sector. By harnessing the power of time series analysis and historical retail sales data, this project seeks to provide valuable insights and predictive capabilities that can enhance strategic planning and decision-making.
 
-6.	[**Project 6: Working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Chicago%20Crimes)
+6.	[**Project 6: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Chicago%20Crimes)
 # Predicting Chicago crimes using time series.
 The objective of this project is to develop an accurate and proactive predictive model for forecasting crime incidents in the city of Chicago using advanced time series analysis techniques. Accurate predictions of crime occurrences in Chicago are essential for law enforcement agencies, city planners, and policymakers aiming to enhance public safety and allocate resources effectively. By harnessing the power of time series analysis and historical crime data, this project seeks to provide valuable insights and predictive capabilities that can assist in crime prevention and response strategies.
 
