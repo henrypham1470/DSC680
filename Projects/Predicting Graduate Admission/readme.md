@@ -25,3 +25,13 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 GraduateAddission: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
 
 # Methods:
+
+The analysis will involve using classification and regression models to predict graduate admission outcomes. Classification models can be used to predict whether a student will be admitted or not based on the input features, while regression models can predict the likelihood of admission or the actual admission probabilities. Additionally, the Prophet model can be used for time series analysis if there is a time component in the data.
+
+# Ethical Considerations:
+
+Some potential ethical concerns related to this topic include ensuring the fairness and transparency of the admission process, avoiding biased predictions that may discriminate against certain groups of applicants, and protecting the privacy and confidentiality of applicant data. It is important to handle the data ethically and responsibly to avoid any misuse or discrimination in the admission decisions.
+
+# Challenges/Issues:
+
+Some challenges that may be faced during the project include dealing with missing or incomplete data in the dataset, handling outliers and noisy data that may impact the model's performance, and interpreting the results in a way that is understandable and actionable for universities and students. Additionally, ensuring the fairness and accuracy of the predictions may also pose challenges.
