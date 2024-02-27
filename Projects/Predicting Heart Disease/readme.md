@@ -25,3 +25,13 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 Heart Disease: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 # Methods:
+
+The analysis will involve using classification models to predict the likelihood of heart disease based on the input features. Machine learning algorithms such as logistic regression, support vector machines, random forests, or neural networks can be used to build the predictive model. Feature selection techniques and model evaluation methods will be employed to optimize the model performance.
+
+# Ethical Considerations:
+
+Some potential ethical concerns related to this topic include ensuring patient privacy and confidentiality of medical data, avoiding bias in the predictive models that may lead to misdiagnosis or inappropriate treatment decisions, and obtaining informed consent from patients for using their data in the analysis. It is important to handle patient data ethically and responsibly to maintain trust and compliance with healthcare regulations.
+
+# Challenges/Issues:
+
+Some challenges that may be faced during the project include dealing with imbalanced datasets where the number of positive cases (patients with heart disease) is much lower than negative cases, interpreting the model's predictions in a clinical context, handling missing or noisy data in the dataset, and ensuring the model's interpretability for healthcare professionals.
