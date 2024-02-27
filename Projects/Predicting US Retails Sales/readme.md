@@ -24,3 +24,24 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 
 Retail Sales: https://www.alphavantage.co/query?function=RETAIL_SALES&apikey=demo 
 
+# Methods:
+
+The analysis will involve using the Prophet model, a time series forecasting tool developed by Facebook. The Prophet model is particularly suited for forecasting retail sales data as it can handle seasonality, holiday effects, and outliers effectively. The model will be trained on historical data and used to make predictions for future retail sales.
+
+Data Collection: Gather historical stock prices data for US retail sales.
+
+Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
+
+Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between variables.
+
+Model Selection: Prophet model.
+
+Prediction: Utilize the trained model to make predictions for US retail sales for a specific future period.
+
+# Ethical Considerations:
+
+Some potential ethical concerns related to this topic include ensuring the privacy and security of the data being used, as well as being transparent about the methods and assumptions made in the forecasting process. It is important to handle the data responsibly and ethically to avoid any misuse or bias in the results.
+
+# Challenges/Issues:
+
+Some challenges that may be faced during the project include dealing with missing or incomplete data, handling outliers and seasonality in the retail sales data, and ensuring the accuracy and reliability of the forecasting model. Additionally, interpreting and communicating the results effectively to stakeholders may also pose a challenge.
