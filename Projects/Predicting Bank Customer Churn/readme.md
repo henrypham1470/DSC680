@@ -25,3 +25,13 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 Customer Churn: https://www.kaggle.com/datasets/aakash50897/churn-modellingcsv
 
 # Methods:
+
+The analysis will involve using classification models to predict whether a customer is likely to churn or not based on the input features. Regression models can also be used to predict the likelihood of churn or the probability of a customer leaving the bank.
+
+# Ethical Considerations:
+
+Some potential ethical concerns related to this topic include ensuring the privacy and security of customer data, avoiding bias in the predictive models that may lead to discriminatory practices, and being transparent about how customer data is being used for churn prediction. It is important to handle customer data responsibly and ethically to maintain trust and confidentiality.
+
+# Challenges/Issues:
+
+Some challenges that may be faced during the project include dealing with imbalanced datasets where the number of churned customers is significantly lower than non-churned customers, handling missing or noisy data in the dataset, and interpreting the model results in a way that is actionable for the bank to take preventive measures against churn.
