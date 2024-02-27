@@ -22,7 +22,7 @@ The objective of this project is to develop an accurate predictive model for for
 # Predicting Toyota stock performance using machine learning and economic indicators.
 The objective of this project is to develop an accurate prediction of Toyota stock prices. Investors, financial analysts, and automotive industry professionals reply on precise forecasts to make informed decisions and navigate the complexities of financial markets. Predicting Toyota stock performance can provide a competitive advantage by identifying  potential buying and selling opportunities and facilitating risk mitigation.
 
-5.	[**Project 5: Working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20US%20Retails%20Sales)
+5.	[**Project 5: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20US%20Retails%20Sales)
 # Predicting US retail sales using time series.
 The aim of this project is to develop an accurate and actionable predictive model for forecasting retail sales in the United States using advanced time series analysis techniques. Accurate predictions of U.S. retail sales are essential for retailers, economists, and policymakers who rely on this critical economic indicator to make informed decisions and navigate the dynamic landscape of the retail sector. By harnessing the power of time series analysis and historical retail sales data, this project seeks to provide valuable insights and predictive capabilities that can enhance strategic planning and decision-making.
 
