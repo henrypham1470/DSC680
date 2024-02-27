@@ -30,7 +30,7 @@ The aim of this project is to develop an accurate and actionable predictive mode
 # Predicting Chicago crimes using time series.
 The objective of this project is to develop an accurate and proactive predictive model for forecasting crime incidents in the city of Chicago using advanced time series analysis techniques. Accurate predictions of crime occurrences in Chicago are essential for law enforcement agencies, city planners, and policymakers aiming to enhance public safety and allocate resources effectively. By harnessing the power of time series analysis and historical crime data, this project seeks to provide valuable insights and predictive capabilities that can assist in crime prevention and response strategies.
 
-7.	[**Project 7: Working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Graduate%20Admission)
+7.	[**Project 7: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Graduate%20Admission)
 # Predicting graduate admission.
 The objective of this project is to develop a precise and dependable predictive model for forecasting graduate admission outcomes, assisting educational institutions, prospective students, and admissions committees in the selection process. Accurate predictions of graduate admission provide valuable insights for universities and candidates, enabling data-driven decision-making and optimizing the admissions process. By leveraging predictive analytics and historical admissions data, this project aims to streamline the graduate admission process and enhance transparency for all stakeholders.
 
