@@ -20,3 +20,8 @@ scipy: a library for scientific computing in Python, provided a collection of ma
 
 sqldf: a Python library that provides a SQL-like interface for querying pandas DataFrames using SQL syntax.
 
+# Dataset:
+
+GraduateAddission: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
+
+# Methods:
