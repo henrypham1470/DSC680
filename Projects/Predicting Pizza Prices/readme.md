@@ -28,6 +28,20 @@ Pizza Price: https://www.kaggle.com/datasets/knightbearr/pizza-price-prediction
 
 The analysis will involve using regression models to predict pizza prices based on the input features such as pizza characteristics and location. Machine learning algorithms such as linear regression, random forests, and some others can be used to build the pricing model. Feature engineering techniques may also be applied to enhance the model's performance.
 
+Data Collection: Gather historical data for pizza prices. 
+
+Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
+
+Feature Engineering: Create relevant features to capture potential dependencies.
+
+Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between variables.
+
+Model Selection: Split data into training and testing subsets. Utilize regression models and time series forecasting techniques to predict stock prices.
+
+Prediction: Utilize the trained model to make predictions for pizza prices for a specific future period.
+
+Model Evaluation: Assess model performance using appropriate evaluation metrics like Mean Absolute Error (MAE) and R-squared (R2).
+
 # Ethical Considerations:
 
 Some potential ethical concerns related to this topic include ensuring the privacy of customer data used in the analysis, avoiding price discrimination based on customer demographics or location, and being transparent about how the pricing model is developed and used. It is important to handle pricing data ethically and responsibly to maintain customer trust.
