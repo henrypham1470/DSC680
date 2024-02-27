@@ -25,3 +25,13 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 Pizza Price: https://www.kaggle.com/datasets/knightbearr/pizza-price-prediction
 
 # Methods:
+
+The analysis will involve using regression models to predict pizza prices based on the input features such as pizza characteristics and location. Machine learning algorithms such as linear regression, random forests, and some others can be used to build the pricing model. Feature engineering techniques may also be applied to enhance the model's performance.
+
+# Ethical Considerations:
+
+Some potential ethical concerns related to this topic include ensuring the privacy of customer data used in the analysis, avoiding price discrimination based on customer demographics or location, and being transparent about how the pricing model is developed and used. It is important to handle pricing data ethically and responsibly to maintain customer trust.
+
+# Challenges/Issues:
+
+Some challenges that may be faced during the project include dealing with outliers in the pricing data, capturing the complexity of pricing factors accurately, handling seasonality or promotional pricing effects, and ensuring the model's generalizability across different pizza businesses and locations.
