@@ -27,6 +27,19 @@ Customer Churn: https://www.kaggle.com/datasets/aakash50897/churn-modellingcsv
 # Methods:
 
 The analysis will involve using classification models to predict whether a customer is likely to churn or not based on the input features. Regression models can also be used to predict the likelihood of churn or the probability of a customer leaving the bank.
+Data Collection: Gather historical data for graduate admission.
+
+Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
+
+Feature Engineering: Create relevant features to capture potential dependencies.
+
+Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between variables.
+
+Model Selection: Split data into training and testing subsets. Utilize classification regression models to predict whether students are accepted.
+
+Prediction: Utilize the trained model to make predictions for acceptance.
+
+Model Evaluation: Assess model performance using appropriate evaluation metrics like Accuracy score, Recall score, and F1 score.
 
 # Ethical Considerations:
 
