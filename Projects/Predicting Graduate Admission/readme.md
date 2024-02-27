@@ -26,7 +26,7 @@ GraduateAddission: https://www.kaggle.com/datasets/mohansacharya/graduate-admiss
 
 # Methods:
 
-The analysis will involve using classification and regression models to predict graduate admission outcomes. Classification models can be used to predict whether a student will be admitted or not based on the input features, while regression models can predict the likelihood of admission or the actual admission probabilities. Additionally, the Prophet model can be used for time series analysis if there is a time component in the data.
+The analysis will involve using classification and regression models to predict graduate admission outcomes. Classification models can be used to predict whether a student will be admitted or not based on the input features.
 
 Data Collection: Gather historical data for graduate admission.
 
