@@ -24,3 +24,14 @@ sqldf: a Python library that provides a SQL-like interface for querying pandas D
 
 ChicagoCrimes: https://www.kaggle.com/datasets/currie32/crimes-in-chicago 
 
+# Methods:
+
+The analysis will involve using the Prophet model, a time series forecasting tool developed by Facebook. The Prophet model will be trained on historical crime data to make predictions for future crime rates in Chicago. The model will take into account seasonality, trends, and other factors that may influence crime patterns.
+
+# Ethical Considerations:
+
+Some potential ethical concerns related to this topic include ensuring the privacy and confidentiality of the data being used, as well as considering the potential biases in the data that may impact the accuracy of the predictions. It is important to handle the data responsibly and ethically to avoid any misuse or discrimination in law enforcement practices.
+
+# Challenges/Issues:
+
+Some challenges that may be faced during the project include dealing with the complexity and variability of crime data, handling outliers and anomalies in the dataset, and addressing potential biases in the data that may affect the forecasting accuracy. Additionally, interpreting the results and ensuring that the predictions are used responsibly by law enforcement agencies may also pose challenges.
