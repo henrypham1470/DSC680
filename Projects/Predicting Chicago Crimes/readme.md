@@ -28,6 +28,16 @@ ChicagoCrimes: https://www.kaggle.com/datasets/currie32/crimes-in-chicago
 
 The analysis will involve using the Prophet model, a time series forecasting tool developed by Facebook. The Prophet model will be trained on historical crime data to make predictions for future crime rates in Chicago. The model will take into account seasonality, trends, and other factors that may influence crime patterns.
 
+Data Collection: Gather historical data for Chicago Crimes.
+
+Data Preprocessing: Clean and preprocess the data, addressing missing values and outliers.
+
+Exploratory Data Analysis (EDA): Conduct EDA to visualize the data, identify correlations, and gain insights into potential relationships between variables.
+
+Model Selection: Prophet model.
+
+Prediction: Utilize the trained model to make predictions for Chicago crimes for a specific future period.
+
 # Ethical Considerations:
 
 Some potential ethical concerns related to this topic include ensuring the privacy and confidentiality of the data being used, as well as considering the potential biases in the data that may impact the accuracy of the predictions. It is important to handle the data responsibly and ethically to avoid any misuse or discrimination in law enforcement practices.
