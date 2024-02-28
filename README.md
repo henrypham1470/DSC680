@@ -38,7 +38,7 @@ The objective of this project is to develop a precise and dependable predictive 
 # Predicting Bank Customer Churn.
 The aim of this project is to develop an accurate and actionable predictive model for forecasting bank customer churn, assisting financial institutions in retaining customers and enhancing customer satisfaction. Accurate predictions of customer churn are pivotal for banks and financial institutions seeking to proactively address attrition, improve customer engagement, and optimize retention strategies. By harnessing the power of predictive analytics and historical customer data, this project seeks to provide valuable insights and predictive capabilities that can bolster customer relationship management in the banking sector.
 
-9.	[**Project 9: Working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Pizza%20Prices)
+9.	[**Project 9: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Pizza%20Prices)
 # Predicting Pizza Price.
 The goal of this project is to develop an accurate predictive model for forecasting pizza prices, benefiting pizzerias, customers, and the food service industry as a whole. Accurate price predictions for pizzas enable pizzerias to optimize pricing strategies, offer competitive rates, and enhance customer satisfaction. Additionally, customers can make informed choices, and the food service industry can gain insights into pricing dynamics. By harnessing data analytics and historical pricing data, this project aims to provide valuable insights and predictive capabilities that can contribute to pricing transparency and informed decision-making in the pizza market.
 
