@@ -34,7 +34,7 @@ The objective of this project is to develop an accurate and proactive predictive
 # Predicting Graduate Admission.
 The objective of this project is to develop a precise and dependable predictive model for forecasting graduate admission outcomes, assisting educational institutions, prospective students, and admissions committees in the selection process. Accurate predictions of graduate admission provide valuable insights for universities and candidates, enabling data-driven decision-making and optimizing the admissions process. By leveraging predictive analytics and historical admissions data, this project aims to streamline the graduate admission process and enhance transparency for all stakeholders.
 
-8.	[**Project 8: Working**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Bank%20Customer%20Churn)
+8.	[**Project 8: Completed**](https://github.com/henrypham1470/DSC680/tree/main/Projects/Predicting%20Bank%20Customer%20Churn)
 # Predicting Bank Customer Churn.
 The aim of this project is to develop an accurate and actionable predictive model for forecasting bank customer churn, assisting financial institutions in retaining customers and enhancing customer satisfaction. Accurate predictions of customer churn are pivotal for banks and financial institutions seeking to proactively address attrition, improve customer engagement, and optimize retention strategies. By harnessing the power of predictive analytics and historical customer data, this project seeks to provide valuable insights and predictive capabilities that can bolster customer relationship management in the banking sector.
 
